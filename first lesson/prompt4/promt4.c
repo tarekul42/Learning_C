@@ -7,4 +7,5 @@ int main(){
     scanf("%f %f", &num1, &num2 );
 
     printf("Your floating numbers are: %.1f, %.1f", num1, num2);
+    return 0;
 }
